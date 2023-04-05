@@ -13,6 +13,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
+
+Route::get('/', function () {
+    return view('homes/home');
+});
+
 Route::get('/home', function () {
     return view('homes/home');
 });
@@ -21,6 +27,14 @@ Route::get('/berita', function () {
     return view('beritas/berita');
 });
 
+Route::get('/pengurus', function () {
+    return view('penguruss/pengurus');
+});
 
+Route::get('/refrensi', function () {
+    return view('refrensis/refrensi');
+});
 
-
+Route::get('/kontak', function () {
+    return view('kontaks/kontak');
+});
