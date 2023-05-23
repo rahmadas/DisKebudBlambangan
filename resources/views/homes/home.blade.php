@@ -30,7 +30,7 @@
     <!-- main text and image -->
     <section class="home" id="home">
         <div class="home-text">
-            <div class="card" style="width: ;">
+            <div class="card">
                 <img src="pic/favicon.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <p class="card-text">Dewan Kesenian Blambangan (DKB) adalah lembaga mitra pemerintah Kabupaten
