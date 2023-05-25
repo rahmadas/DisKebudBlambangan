@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Dewan Kesenian Blambangan</title>
     <!-- link to css -->
-    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/refrensi.css">
     <!-- link Faficon -->
     <link rel="shortcut icon" href="pic/favicon.ico">
     <!-- Box Icons -->
@@ -28,7 +28,30 @@
 <body>
 
     <section>
-        <h5>refrensi</h5>
+        <div class="container">
+            <div class="makalah">
+                <h1>Makalah</h1>
+                <p>Judul Makalah :</p>
+                <p>Link Makalah :</p><hr>
+                <p>Judul Makalah :</p>
+                <p>Link Makalah :</p><hr>
+                <p>Judul Makalah :</p>
+                <p>Link Makalah :</p><hr>
+            </div>
+            <div class="sumber-informasi">
+                <h1>Sumber Informasi</h1>
+                <p>Link Sumber</p>
+                <p>Informasi :</p><hr>
+                <p>Link Sumber</p>
+                <p>Informasi :</p><hr>
+                <p>Link Sumber</p>
+                <p>Informasi :</p><hr>
+            </div>
+        </div>
+    </section>
+
+    <section>
+
     </section>
 
 

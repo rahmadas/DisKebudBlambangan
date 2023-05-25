@@ -31,10 +31,10 @@ Route::get('/pengurus', function () {
     return view('penguruss/pengurus');
 });
 
-Route::get('/refrensi', function () {
-    return view('refrensis/refrensi');
-});
-
 Route::get('/kontak', function () {
     return view('kontaks/kontak');
+});
+
+Route::get('/refrensi', function () {
+    return view('refrensis/refrensi');
 });
